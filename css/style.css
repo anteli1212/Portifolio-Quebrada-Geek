@@ -116,7 +116,18 @@ body {
 
 .topicsSecondHalf span{
     font-style: italic;
-    font-size: 12px;
+    font-size: 14px;
+}
+
+.topicsSecondHalf span a{
+    transition: 0.2s ease;
+    color: #F78F06;
+}
+
+.topicsSecondHalf span a:hover{
+    transition: 0.2s;
+    color: #c46f00;
+    font-size: 15px;
 }
 
 .contents{
